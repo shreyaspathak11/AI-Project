@@ -30,7 +30,7 @@ function SearchAndSummary() {
         length: '3'
       },
       headers: {
-        'X-RapidAPI-Key': process.env.REACT_APP_RAPIDAPI_KE,
+        'X-RapidAPI-Key': '09b452bdf9msha2b0e2c364f30f8p1fd296jsn142bf2d30b09',
         'X-RapidAPI-Host': 'article-extractor-and-summarizer.p.rapidapi.com'
       }
     };
