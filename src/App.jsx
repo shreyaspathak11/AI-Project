@@ -1,4 +1,4 @@
-import Demo from "./components/Demo"    
+import Demo from "./components/Main"    
 import Dashboard from "./components/Dashboard";
 
 import "./App.css"
